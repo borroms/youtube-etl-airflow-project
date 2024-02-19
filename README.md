@@ -6,7 +6,7 @@ This project is an implementation of an ETL (Extract, Transform, Load) pipeline 
 
 This project is based on [this tutorial](https://www.youtube.com/watch?v=q8q3OFFfY6c&t=1652s) with modifications:
 
-- **Environment**: Docker with WSL2 backend is used instead of EC2 for local development.
+- **Environment**: Docker with WSL2 backend is used instead of EC2 because the free tier offer is not enough to create the project.
 - **API**: YouTube API is used instead of the Twitter API because the latter is no longer free.
 
 ### DAG Structure
