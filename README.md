@@ -1,4 +1,4 @@
-## Youtube ETL with Apache Kafka and Docker
+## Youtube ETL with Apache Airflow and Docker
 
 This project is an implementation of an ETL (Extract, Transform, Load) pipeline using Apache Airflow, Docker, and the YouTube API. It extracts data from multiple YouTube channels, transforms it into a structured format, and loads it into an AWS S3 bucket.
 
